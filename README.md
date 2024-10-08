@@ -19,3 +19,4 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 modificación de prueba para comprobar el remoto.
 Modificacion para probar el remoto
 Algo nuevo
+Nueva modificacion de prueba en remoto para conflicto
